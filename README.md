@@ -104,7 +104,7 @@ This calculator is designed for simple and quick calculations. You can interact 
 | `4 × 3` | `12` |
 | `20 ÷ 5` | `4` |
 | `10.5 + 2.3` | `12.8` |
-| `50 %` | `0.5` |
+| `50 % *100` | `50` |
 ## Challenges
 
 During the development of this project, some challenges included:
